@@ -1,4 +1,7 @@
-Today Robtop did a sick backflip
-and sang XO and played sakupen circles
-while verifying slaughterhouse
-and gyatting everyone
+Today marks the day that this mod releases
+and since theres no news as of now, ill
+explain how this works, this mod takes
+info from a github post which has the
+current news, and implements it as a
+CCLabelBMFont, and thats what makes me
+Able to update it so seamlessly
