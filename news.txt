@@ -1,10 +1,8 @@
 
 
 
-Today marks the day that this mod releases
-and since theres no news as of now, ill
-explain how this works, this mod takes
-info from a github post which has the
-current news, and implements it as a
-CCLabelBMFont, and thats what makes me
-Able to update it so seamlessly
+Switchstep GD has recently previewed his Explorers
+Recreation which he is making with MATHIcreatorGD
+Switchstep and MATHI were the people behind Dash
+Full Version, check out the showcase on Switchsteps
+Channel!
